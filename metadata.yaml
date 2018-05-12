@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/456
     wikipedia: http://en.wikipedia.org/wiki/James_Russell_Lowell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17119#The-Vision-of-Sir-Launfal--13-And-Other-Poems-by-James-Russell-Lowell--With-a-Biographical-Sk_
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2005-11-20'
 gutenberg_type: Text
